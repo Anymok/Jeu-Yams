@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Yams.exe" version="1.0.0.1" publicKeyToken="36732338c579e64d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Yams" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Yams.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options de manifeste UAC
+          Pour changer le niveau du contrôle de compte d'utilisateur Windows, remplacez le
+          nœud requestedExecutionLevel par l'une des propositions suivantes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Pour utiliser la virtualisation des fichiers et du Registre afin d'assurer
+         une compatibilité ascendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Yams.exe" size="202176">
+      <assemblyIdentity name="Yams" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>i4l8pNqYh9PX8w0feHgcL0QcF1qDvSbuIENRkji9qCw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Yams.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VDy5/VrQni+RSOb/6uEMWMc6bGQEaa2e2UdeWG+KK1I=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ANYMOK-PC\Anymok" issuerKeyHash="1cc9c29b01ab3ceef02db54cc6e7808d39f33ebb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>4rQu4QYxC6rO4xHwCW6OUqKt2YcKGcXq7OEIisGhVbA=</DigestValue></Reference></SignedInfo><SignatureValue>crmHtmCjAsNan2yM8OVj4JgtwhSNvnUzpaV5L8y7ltmPhgmu8h9R2NJ6YnD5/csPyHg2Z9cOzTp/yX+3ZHrReU07G5ky/exEY22mWHSnnFBRfCB6buRqlClJn/fpoKXwtmypwf2cdoobOxjoOsoAEv5UdYE9Q+wZ6FPvyjiwEaY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2ofTqpvPtElSMkTTLG93HVwBrtUdKT7cX6TGQIUg76A2ZbfIQ3hoSuUmXeLC5IVMRbZOKNYfnlijGB8nIOzcxUV/mxrMovlA1coIXnQWPsKeWjHhHwDJRwMrLV2bdVnT1T9Sk+8HmLYBk6UBogCJq7HRwYSr+2L1Az7OQyBRwbE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b055a1c18a08e1eceac5190a87d9ada2528e6e09f011e3ceaa0b3106e12eb4e2" Description="" Url=""><as:assemblyIdentity name="Yams.exe" version="1.0.0.1" publicKeyToken="36732338c579e64d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ANYMOK-PC\Anymok</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2WIDxLoK3NY0rvqh8DUesiPl5qi1EBVhNiB2HoTukf0=</DigestValue></Reference></SignedInfo><SignatureValue>aHNVr0hPkU+WAh4HK1QbWuXpfunp+124E6/SbRW6UFZ9UtflFIf8mDftOfrr6Ixxo9EqC2Pn7ehJKwJOJ67AQ2o2jafVCxrlVDnp6zclMxZy1JNhaKIq+pNFlU8HK/OthYgbqBuD0ApuY/qOCQ03YIgNIFHXthuvk5eF6UBcd+s=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2ofTqpvPtElSMkTTLG93HVwBrtUdKT7cX6TGQIUg76A2ZbfIQ3hoSuUmXeLC5IVMRbZOKNYfnlijGB8nIOzcxUV/mxrMovlA1coIXnQWPsKeWjHhHwDJRwMrLV2bdVnT1T9Sk+8HmLYBk6UBogCJq7HRwYSr+2L1Az7OQyBRwbE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQZpGkvGyJzpxBfWq+8g0UQTANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAAQQBOAFkATQBPAEsALQBQAEMAXABBAG4AeQBtAG8AazAeFw0yMjAyMTAxMzMyMTNaFw0yMzAyMTAxOTMyMTNaMCsxKTAnBgNVBAMeIABBAE4AWQBNAE8ASwAtAFAAQwBcAEEAbgB5AG0AbwBrMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDah9Oqm8+0SVIyRNMsb3cdXAGu1R0pPtxfpMZAhSDvoDZlt8hDeGhK5SZd4sLkhUxFtk4o1h+eWKMYHycg7NzFRX+bGsyi+UDVyghedBY+wp5aMeEfAMlHAystXZt1WdPVP1KT7weYtgGTpQGiAImrsdHBhKv7YvUDPs5DIFHBsQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBABGJTYCnnbMhe3rXZmApQx/eezlqo1dRG/icQhPgK42hxaIrvvPyMEGUXLTfo2X/19Ejb05MJycEr8tjMWAtRH+2EVyZ3OVvhan5zh7PsXH4+WIBDfLiOkZGGJtWwWcOgaYZ0iZ7oEJxQP8kQ4R8DId0N93YWvQFEueoLx1qLKY0</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

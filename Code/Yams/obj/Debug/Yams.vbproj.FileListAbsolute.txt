@@ -1,0 +1,28 @@
+C:\Users\Anymok\Desktop\yams\Yams\Yams\bin\Debug\Yams.exe.config
+C:\Users\Anymok\Desktop\yams\Yams\Yams\bin\Debug\Yams.exe
+C:\Users\Anymok\Desktop\yams\Yams\Yams\bin\Debug\Yams.pdb
+C:\Users\Anymok\Desktop\yams\Yams\Yams\bin\Debug\Yams.xml
+C:\Users\Anymok\Desktop\yams\Yams\Yams\obj\Debug\Yams.vbprojAssemblyReference.cache
+C:\Users\Anymok\Desktop\yams\Yams\Yams\obj\Debug\Yams.Resources.resources
+C:\Users\Anymok\Desktop\yams\Yams\Yams\obj\Debug\Yams.vbproj.GenerateResource.cache
+C:\Users\Anymok\Desktop\yams\Yams\Yams\obj\Debug\Yams.vbproj.CoreCompileInputs.cache
+C:\Users\Anymok\Desktop\yams\Yams\Yams\obj\Debug\Yams.exe
+C:\Users\Anymok\Desktop\yams\Yams\Yams\obj\Debug\Yams.xml
+C:\Users\Anymok\Desktop\yams\Yams\Yams\obj\Debug\Yams.pdb
+C:\Users\Anymok\Desktop\yams\Yams\Yams\obj\Debug\Yams.Yams.resources
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\bin\Debug\Yams.exe.config
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\bin\Debug\Yams.exe.manifest
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\bin\Debug\Yams.application
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\bin\Debug\Yams.exe
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\bin\Debug\Yams.pdb
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\bin\Debug\Yams.xml
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.vbprojAssemblyReference.cache
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.Yams.resources
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.Resources.resources
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.vbproj.GenerateResource.cache
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.vbproj.CoreCompileInputs.cache
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.exe.manifest
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.application
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.exe
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.xml
+C:\Users\Anymok\Desktop\SIO 1\Matières\Tronc Commun\M. Lecordier\Exercice\TP Lecordier\yams\Yams\Yams\obj\Debug\Yams.pdb
